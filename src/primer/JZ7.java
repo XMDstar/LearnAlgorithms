@@ -15,7 +15,7 @@ package primer;
  * 返回值
  * 3
  */
-public class J27 {
+public class JZ7 {
     public static void main(String[] args) {
         System.out.println(Fibonacci(2));
     }
